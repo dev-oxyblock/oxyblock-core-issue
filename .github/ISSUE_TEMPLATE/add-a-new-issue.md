@@ -11,9 +11,9 @@ assignees: ''
 <!-- PLEASE READ THE FOLLOWING INSTRUCTIONS -->
 
 <!-- Choose one of the following: -->
-This is about **Oxyblock Core (Tokens, Utility and/or Components) | the Docs**.
+This is about **Oxyblock Core (`Tokens`, `Utility` and/or `Components`) | the Docs**.
 
-<!-- Is it about Oxyblock Core Tokens, Utility and/or Components or about the Docs? -->
+<!-- Is it about Oxyblock Core `Tokens`, `Utility` and/or `Components` or about the Docs? -->
 <!-- Is it a bug/feature/question or do you need help? -->
 <!-- If it's a bug, is it a browser bug? -->
 
@@ -23,7 +23,7 @@ This is about **Oxyblock Core (Tokens, Utility and/or Components) | the Docs**.
 
 <!-- This is about the Oxyblock Core **CSS Framework** -->
 <!-- This is about the Oxyblock Core **Docs** -->
-<!-- I'm using Oxyblock Core **Tokens | Utility | Components** **version** [x.x.x] -->
+<!-- I'm using Oxyblock Core **`Tokens` | `Utility` | `Components`** **version** [x.x.x] -->
 <!-- My **browser** is: -->
 <!-- This is a **Css** issue: I'm using version [x.x.x] -->
 <!-- I am sure this issue is **not a duplicate**? -->
